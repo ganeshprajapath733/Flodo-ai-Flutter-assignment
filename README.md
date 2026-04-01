@@ -223,6 +223,10 @@ If the user starts typing a task but leaves the screen without saving:
 
 ![Search and Filter](assets/screenshots/search_filter_screen.png)
 
+
+##Video demo link:
+https://drive.google.com/drive/folders/1uFo0PPBn8kWpxYH2UO4F_SUY2I2_l4gv?usp=sharing
+
 ---
 
 ## AI Usage Report
@@ -268,5 +272,4 @@ Fix:
 
 Ganesh
 
-```
 
